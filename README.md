@@ -12,4 +12,4 @@ Each polynomial term in the list would be represented as a single node and the e
 
 Tools and Technologies used: Java, IntelliJ
 
-This project is stored in Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
+This project is stored on Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
